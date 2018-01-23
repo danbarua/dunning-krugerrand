@@ -1,14 +1,14 @@
 mongolian-clusterfucks
 =============
 
-Chrome extension that replaces occurrences of 'micro services' with 'mongolian clusterfucks'
+Chrome extension that replaces occurrences of 'BitCoins' with 'Dunning-Krugerrands'
 
-[Install from Chrome WebStore](https://chrome.google.com/webstore/detail/mongolianclusterfuck/hkljhfgiofjjfmckifnceipegancihoa)
+[Install from Chrome WebStore](https://chrome.google.com/webstore/detail/TODO)
 
-[Direct download of crx file](https://github.com/danbarua/mongolian-clusterfucks/raw/master/MongolianClusterfucks.crx)
+[Direct download of crx file](https://github.com/danbarua/dunning-krugerrands/raw/master/DunningKrugerrands.crx)
 
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag MongolianClusterfucks.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag DunningKrugerrands.crx into the page that appears.

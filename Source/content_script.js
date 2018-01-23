@@ -34,21 +34,20 @@ function handleText(textNode)
 	var oldValue = textNode.nodeValue;
 	v = oldValue;
 
-	v = v.replace(/\bMicroServices\b/g, "MongolianClusterfucks");
-	v = v.replace(/\bMicro Services\b/g, "Mongolian Clusterfucks");
-	v = v.replace(/\bMicro services\b/g, "Mongolian clusterfucks");
-	v = v.replace(/\micro Services\b/g, "mongolian Clusterfucks");
-	v = v.replace(/\bmicro services\b/g, "mongolian clusterfucks");
-	v = v.replace(/\bmicroservices\b/g, "mongolianclusterfucks");
-	v = v.replace(/\bMicroservices\b/g, "Mongolianclusterfucks");
-	v = v.replace(/\bMicroservice\b/g, "Mongolianclusterfuck");
-	v = v.replace(/\bmicroservice\b/g, "mongolianclusterfuck");
-	v = v.replace(/\bmicroService\b/g, "mongolianClusterfuck");
-	v = v.replace(/\bMicro-Service\b/g, "Mongolian-Clusterfuck");
-	v = v.replace(/\bMicro-Services\b/g, "Mongolian-Clusterfucks");
-	v = v.replace(/\bmicro-service\b/g, "mongolian-clusterfuck");
-	v = v.replace(/\bmicro-services\b/g, "mongolian-clusterfucks");
-  v = v.replace(/\bµService\b/g, "mongolianclusterfuck");
+	v = v.replace(/\bBitCoins\b/g, "Dunning-Krugerrands");
+	v = v.replace(/\bBit Coins\b/g, "Dunning-Krugerrands");
+	v = v.replace(/\bBit coins\b/g, "Dunning-Krugerrands");
+	v = v.replace(/\bit Coins\b/g, "Dunning-Kruggerands");
+	v = v.replace(/\bbit coins\b/g, "Dunning-Krugerrands");
+	v = v.replace(/\bitcoins\b/g, "Dunning-Krugerrands");
+	v = v.replace(/\bBitcoins\b/g, "Dunning-Krugerrands");
+	v = v.replace(/\bBitcoin\b/g, "Dunning-Krugerrand");
+	v = v.replace(/\bbitcoin\b/g, "Dunning-Krugerrand");
+	v = v.replace(/\bbitCoin/g, "Dunning-Krugerrrand");
+	v = v.replace(/\bBit-Coin\b/g, "Dunning-Krugerrand");
+	v = v.replace(/\bBit-Coins\b/g, "Dunning-Krugerrands");
+	v = v.replace(/\bbit-coin\b/g, "Dunning-Krugerrand");
+	v = v.replace(/\bbitcoins\b/g, "Dunning-Kurgerrands");
 
 	
 	// avoid infinite series of DOM changes
