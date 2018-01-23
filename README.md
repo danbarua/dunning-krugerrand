@@ -1,5 +1,5 @@
-mongolian-clusterfucks
-=============
+Dunning-Krugerrands
+===================
 
 Chrome extension that replaces occurrences of 'BitCoins' with 'Dunning-Krugerrands'
 
